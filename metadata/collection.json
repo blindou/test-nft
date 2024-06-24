@@ -1,0 +1,8 @@
+{
+  "name": "Dark Fantasy Dungeon Crawler Collection",
+  "description": "A collection of characters for a dark fantasy dungeon crawler game",
+  "image": "https://blindou.github.io/test-nft/images/collection.png",
+  "external_link": "https://blindou.github.io/test-nft",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0xYourWalletAddress"
+}
