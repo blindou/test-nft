@@ -1,0 +1,15 @@
+{
+  "name": "Character 8",
+  "description": "Angel",
+  "image": "https://blindou.github.io/test-nft/images/8.png",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ange"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Livre"
+    }
+  ]
+}

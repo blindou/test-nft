@@ -1,0 +1,15 @@
+{
+  "name": "Character 3",
+  "description": "adulte elfe",
+  "image": "https://blindou.github.io/test-nft/images/3.png",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Elfe"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Double sword"
+    }
+  ]
+}

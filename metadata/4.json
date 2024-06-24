@@ -1,0 +1,15 @@
+{
+  "name": "Character 4",
+  "description": "Elfe defensif",
+  "image": "https://blindou.github.io/test-nft/images/4.png",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "strong elfe"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sword and bouclier"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Character 7",
+  "description": "mort vivant",
+  "image": "https://blindou.github.io/test-nft/images/7.png",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mort Vivant"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sword"
+    }
+  ]
+}

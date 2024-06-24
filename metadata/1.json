@@ -1,0 +1,15 @@
+{
+  "name": "Character 1",
+  "description": "A brave knight",
+  "image": "https://blindou.github.io/test-nft/images/1.png",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sword"
+    }
+  ]
+}
